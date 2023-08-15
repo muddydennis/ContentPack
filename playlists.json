@@ -1,0 +1,20 @@
+[
+    {
+        "Id": "dedbc3be-1736-4c6c-98a6-c37f8f0b4ce5",
+        "Title": "P365 Implementatie",
+        "Image": "images/categories/ctb-logo-2.png",
+        "Level": "Beginner",
+        "Audience": "End User",
+        "Technology": "P365",
+        "Subject": "",
+        "Category": "P365",
+        "SubCategory": "P365 Compass",
+        "Source": "CTB",
+        "CatId": "e961c85a-92a8-474e-970f-614cf5e01449",
+        "Description": "Start met de Implementatie van P365",
+        "StatusTag": "",
+        "Assets": [
+            "32ff7186-5386-4811-9957-4318c0187c71"
+        ]
+    }
+]
